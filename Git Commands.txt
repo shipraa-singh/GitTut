@@ -1,0 +1,13 @@
+commands:
+
+1. git init -> this commands initializes a new git repository.
+2. git status -> it will tell current status of the directory/repository.
+3. git add . -> it will add all the new changes to the commit list
+4. git commit -> it will finally add the changes to the synchronisation file
+5. git push -> the changes will be pushed to the remote branch
+6. git checkout -> this will be used to change the current branch
+7. git checkout -b "branchName" -> this will create a new branch locally
+8. git push remote origin -> new branch will be added the remote repository
+9. git branch -> tells the current branch you are working on and all the branches
+
+and many more..........
